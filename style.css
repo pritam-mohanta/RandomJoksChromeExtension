@@ -1,0 +1,7 @@
+p {
+ padding: 10px;
+ font-size: 18px;
+ min-width: 100px;
+ width: 300px;
+ box-shadow: rgb(162, 155, 155) 0px 5px 20px 0px;
+}
